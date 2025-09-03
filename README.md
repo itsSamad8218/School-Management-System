@@ -12,7 +12,7 @@ A modern, responsive web application for managing school data, built with **Vite
 - Display a responsive grid of schools similar to an ecommerce product listing.
 - Form validation powered by React Hook Form for robust input handling.
 - Mobile-first design ensuring great user experience on all devices.
-- Clean and reusable UI components styled with Tailwind CSS and shadcn-ui.
+- Clean and reusable UI components styled with Tailwind CSS.
 
 ---
 
