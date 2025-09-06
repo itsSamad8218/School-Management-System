@@ -4,7 +4,7 @@
 A modern, responsive web application for managing school data, built with **Vite**, **TypeScript**, **React**, and **Tailwind CSS**.
 
 ---
-LIve demo - school-management-system-green-psi.vercel.app
+LIve demo - https://school-management-system-green-psi.vercel.app
 Repo - https://github.com/itsSamad8218/School-Management-System
 
 ## Features
